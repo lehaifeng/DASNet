@@ -1,7 +1,7 @@
-# DASNet: Dual attentive fully convolutional siamese networks for change detection of high resolution satellite images
+# DASNet: Dual attentive fully convolutional siamese networks for change detection of high-resolution satellite images
 
 
-<!-- Pytorch implementation of Change Detection as described in [DASNet: Dual attentive fully convolutional siamese networks for change detection of high resolution satellite images](https://arxiv.org/pdf/2003.03608.pdf).-->
+<!-- Pytorch implementation of Change Detection as described in [DASNet: Dual attentive fully convolutional siamese networks for change detection of high-resolution satellite images](https://arxiv.org/pdf/2003.03608.pdf).-->
 
 ![img1](https://github.com/lehaifeng/DASNet/tree/master/DASNET/img/p1.jpg)
 
@@ -12,7 +12,7 @@
 - torchvision
 
 ## Datasets
-This repo is built for remote sensing change detection. We report the performance on three datasets.
+This repo is built for remote sensing change detection. We report the performance on two datasets.
 
 - CDD
  - paper: [Change detection in remote sensing images using conditional adversarial networks](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2/565/2018/isprs-archives-XLII-2-565-2018.pdf)
@@ -32,9 +32,7 @@ $ground_truth_path/*.jpg
 ```
 
 ## Pretrained Model
-Backbone model, which is vgg16 in our work, is available,and pretrained models for CDD and BCDD also have been available
-[[googledriver]](https://drive.google.com/open?id=1iTsmLDCWcNm6odchkpmZY6dSq7dEpQBP)
-[[baidudisk]](https://pan.baidu.com/s/1GFkBXvVKgD1IqLYYeioX_w )   password:86of
+The backbone model and pretrained models for CDD and BCDD can be download from [[googledriver]](https://drive.google.com/open?id=1iTsmLDCWcNm6odchkpmZY6dSq7dEpQBP) [[baidudisk]](https://pan.baidu.com/s/1GFkBXvVKgD1IqLYYeioX_w )   password:86of
 
 
 ## Training
