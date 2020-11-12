@@ -47,8 +47,8 @@ Bibtex
 @article{chen2020dasnet,
     title={DASNet: Dual attentive fully convolutional siamese networks for change detection of high resolution satellite images},
     author={Chen, Jie and Yuan, Ziyang and Peng, Jian and Chen, Li and Huang, Haozhe and Zhu, Jiawei and Lin, Tao and Li, Haifeng},
-    journal={arXiv:2003.03608},
-    DOI = {arXiv:2003.03608},
+    journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+    DOI = {10.1109/JSTARS.2020.3037893},
     year={2020},
     type = {Journal Article}
 }
@@ -65,7 +65,7 @@ Endnote
 %A Li, Haifeng
 %D 2020
 %T DASNet: Dual attentive fully convolutional siamese networks for change detection of high resolution satellite images
-%B arXiv:2003.03608
-%R arXiv:2003.03608
+%B IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+%R 10.1109/JSTARS.2020.3037893
 %! DASNet: Dual attentive fully convolutional siamese networks for change detection of high resolution satellite images
 ```
