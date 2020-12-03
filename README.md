@@ -50,6 +50,7 @@ python train.py
 ```shell
 cd $CD_ROOT
 python test.py
+```
 
 ## Citation
 ```
