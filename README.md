@@ -1,6 +1,7 @@
 # DASNet: Dual attentive fully convolutional siamese networks for change detection of high-resolution satellite images
 
 
+
 <!-- Pytorch implementation of Change Detection as described in [DASNet: Dual attentive fully convolutional siamese networks for change detection of high-resolution satellite images](https://arxiv.org/pdf/2003.03608.pdf).-->
 The architecture:
 <img src="img/p1.jpg" width="600px" hight="400px" />
@@ -53,6 +54,7 @@ python test.py
 ```
 
 ## Citation
+If our repo is useful to you, please cite our published paper as follow:
 ```
 Bibtex
 @article{chen2020dasnet,
