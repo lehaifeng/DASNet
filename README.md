@@ -3,9 +3,13 @@
 
 <!-- Pytorch implementation of Change Detection as described in [DASNet: Dual attentive fully convolutional siamese networks for change detection of high-resolution satellite images](https://arxiv.org/pdf/2003.03608.pdf).-->
 The architecture:
-<img src="DASNET/img/p1.jpg" width="600px" hight="400px" />
+<img src="img/p1.jpg" width="600px" hight="400px" />
 
 ## Requirements
+
+Most of problems in the issue list are caused by the version of python or pytoch.
+We have updated the source code to fit new version of pytorch.
+Hope our repo is useful to you.
 
 - Python3.6
 - Pytorch 1.3.1 (see: [pytorch installation instuctions](http://pytorch.org/))
@@ -46,6 +50,7 @@ python train.py
 ```shell
 cd $CD_ROOT
 python test.py
+```
 
 ## Citation
 ```
