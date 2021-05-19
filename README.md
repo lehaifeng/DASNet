@@ -39,8 +39,10 @@ $T0_image_path/*.jpg
 $T1_image_path/*.jpg
 $ground_truth_path/*.jpg
 ```
-We give an example of the directory structure in the .example and the values of the label images need to be 0 and 1.
-
+##################
+NOTE: We give an example of the directory structure in the .example and the values of the label images need to be 0 and 1.
+IF you did not revise it, our model will lost it's mind.
+##################
 
 ## Pretrained Model
 The backbone model and pretrained models for CDD and BCDD can be download from [[googledriver]](https://drive.google.com/open?id=1iTsmLDCWcNm6odchkpmZY6dSq7dEpQBP) [[baidudisk]](https://pan.baidu.com/s/1GFkBXvVKgD1IqLYYeioX_w )   password:86of
