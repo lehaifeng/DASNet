@@ -40,8 +40,12 @@ $T1_image_path/*.jpg
 $ground_truth_path/*.jpg
 ```
 ##################
+
+
 NOTE: We give an example of the directory structure in the .example and the values of the label images need to be 0 and 1.
 IF you did not revise it, our model will lost it's mind.
+
+
 ##################
 
 ## Pretrained Model
